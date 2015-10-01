@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xslt" ?>
+<students>
+  <student xmlns:students="urn:students-academy-telerik">
+    <name>Jone Creswell</name>
+    <sex>Male</sex>
+    <birthDate>15.05.1954</birthDate>
+    <phoneCell>4489451328</phoneCell>
+    <email>jone@gmail.com</email>
+    <course>JS App</course>
+    <specialty>Desktop App</specialty>
+    <facultyNumber>12561324</facultyNumber>
+    <exams>
+      <exam>
+        <name>HTML</name>
+        <tutor>Ivaylo Kenov</tutor>
+        <score>18</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Joana Creswell</name>
+    <sex>Female</sex>
+    <birthDate>18.01.1960</birthDate>
+    <phoneCell>7845110146</phoneCell>
+    <email>joana@gmai.com</email>
+    <course>DB</course>
+    <specialty>Mobile App</specialty>
+    <facultyNumber>54674131</facultyNumber>
+    <exams>
+      <exam>
+        <name>Android</name>
+        <tutor>Evlogi Hristov</tutor>
+        <score>400</score>
+      </exam>
+    </exams>
+  </student>
+</students>
