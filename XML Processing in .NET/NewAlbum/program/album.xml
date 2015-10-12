@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Pink Floyd</artist>
+  </album>
+  <album>
+    <name>La Familia</name>
+    <artist>J Balvin</artist>
+  </album>
+</albums>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Pink Floyd</artist>
+    <year>1973</year>
+    <producer>Capitol records</producer>
+    <price>15</price>
+    <songs>
+      <song>
+        <title>On the Run</title>
+        <duration>3:30</duration>
+      </song>
+      <song>
+        <title>Time</title>
+        <duration>6:53</duration>
+      </song>
+    </songs>
+  </album>
+
+  <album>
+    <name>La Familia</name>
+    <artist>J Balvin</artist>
+    <year>2013</year>
+    <producer>J Balvin</producer>
+    <price>210</price>
+    <songs>
+      <song>
+        <title>Sola</title>
+        <duration>3:47</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>
+
+
+
+
